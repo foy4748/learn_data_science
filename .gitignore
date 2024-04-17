@@ -1,0 +1,9 @@
+/**/__pycache__
+/**/$py.class
+*.py[cod]
+
+env
+env.bak
+
+/**/*.swp
+.env
