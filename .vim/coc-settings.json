@@ -1,0 +1,21 @@
+{
+  "jedi.workspace.environmentPath": "/home/foy4748/DataScience/env/bin/python3",
+  "jedi.executable.command": "/home/foy4748/DataScience/env/bin/jedi-language-server",
+  "diagnostic-languageserver.formatFiletypes": {
+    "python": ["black", "isort", "docformatter"]
+  },
+  "diagnostic-languageserver.formatters": {
+    "black": {
+      "command": "black",
+      "args": ["-q", "-"]
+    },
+    "isort": {
+      "command": "isort",
+      "args": ["-q", "-"]
+    },
+    "docformatter": {
+      "command": "docformatter",
+      "args": ["-"]
+    }
+  }
+}
