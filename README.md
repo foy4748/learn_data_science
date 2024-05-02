@@ -4,6 +4,14 @@
 
 # Instructions
 
+(For the first time only)
+Run the following to create the virtual environment. (only needed for first time)
+```console
+python -m pip install virtualenv
+virtualenv env
+```
+
+(Normal workflow)
 Run the following command to activate the virtual environment
 ```console
 source env/bin/activate
