@@ -4,6 +4,7 @@ con = sqlite3.connect("./data/workers.db")
 
 cur = con.cursor()
 
+# Creating Schema
 '''
 cur.execute(
     """
@@ -22,6 +23,7 @@ cur.execute(
 )
 '''
 
+# Clearing DB before populating
 cur.execute("DELETE from Workers;")
 
 with open("./data/workers.csv") as F:
