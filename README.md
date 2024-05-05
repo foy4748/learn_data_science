@@ -6,19 +6,19 @@
 
 (For the first time only)
 Run the following to create the virtual environment. (only needed for first time)
+Make sure you are at the project location
 ```console
-python -m pip install virtualenv
-virtualenv env
+sudo apt install pipenv
+pipenv --venv
 ```
 
 (Normal workflow)
 Run the following command to activate the virtual environment
 ```console
-source env/bin/activate
-
+pipenv shell
 ```
 
 Run the following command to install the packages used 
 ```console
-pip install -r requirements.txt
+pipenv install
 ```
