@@ -1,6 +1,5 @@
 {
-  "jedi.workspace.environmentPath": "/home/foy4748/DataScience/env/bin/python3",
-  "jedi.executable.command": "/home/foy4748/DataScience/env/bin/jedi-language-server",
+  "jedi.executable.command": "/home/foy4748/.local/share/virtualenvs/DataScience-HsU5juGa/bin/jedi-language-server",
   "python.formatting.provider": "black",
-  "python.formatting.blackPath": "/home/foy4748/DataScience/env/bin/black"
+  "python.formatting.blackPath": "/home/foy4748/.local/share/virtualenvs/DataScience-HsU5juGa/bin/black"
 }
