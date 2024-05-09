@@ -1,0 +1,86 @@
+[
+  {
+    "lower_limit": 0,
+    "upper_limit": 4,
+    "male_occurance": 7963,
+    "female_occurance": 7631
+  },
+  {
+    "lower_limit": 5,
+    "upper_limit": 9,
+    "male_occurance": 9482,
+    "female_occurance": 9213
+  },
+  {
+    "lower_limit": 10,
+    "upper_limit": 14,
+    "male_occurance": 7175,
+    "female_occurance": 6267
+  },
+  {
+    "lower_limit": 15,
+    "upper_limit": 19,
+    "male_occurance": 4819,
+    "female_occurance": 4881
+  },
+  {
+    "lower_limit": 20,
+    "upper_limit": 24,
+    "male_occurance": 4356,
+    "female_occurance": 5009
+  },
+  {
+    "lower_limit": 25,
+    "upper_limit": 29,
+    "male_occurance": 4537,
+    "female_occurance": 4934
+  },
+  {
+    "lower_limit": 30,
+    "upper_limit": 34,
+    "male_occurance": 3495,
+    "female_occurance": 3502
+  },
+  {
+    "lower_limit": 35,
+    "upper_limit": 39,
+    "male_occurance": 3367,
+    "female_occurance": 2782
+  },
+  {
+    "lower_limit": 40,
+    "upper_limit": 44,
+    "male_occurance": 2519,
+    "female_occurance": 2215
+  },
+  {
+    "lower_limit": 45,
+    "upper_limit": 49,
+    "male_occurance": 1958,
+    "female_occurance": 1669
+  },
+  {
+    "lower_limit": 50,
+    "upper_limit": 54,
+    "male_occurance": 1687,
+    "female_occurance": 1537
+  },
+  {
+    "lower_limit": 55,
+    "upper_limit": 59,
+    "male_occurance": 1117,
+    "female_occurance": 898
+  },
+  {
+    "lower_limit": 60,
+    "upper_limit": 64,
+    "male_occurance": 1251,
+    "female_occurance": 1128
+  },
+  {
+    "lower_limit": 65,
+    "upper_limit": 69,
+    "male_occurance": 2047,
+    "female_occurance": 1620
+  }
+]
