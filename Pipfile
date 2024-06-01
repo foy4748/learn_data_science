@@ -8,6 +8,7 @@ numpy = "*"
 matplotlib = "*"
 jupyter = "*"
 pandas = "*"
+openpyxl = "*"
 
 [dev-packages]
 jedi = "*"
